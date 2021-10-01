@@ -24,6 +24,6 @@
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
 #### Name:  TechGirl007
-- Place: Australian
+- Place: Australia
 - Bio: Student 
 - GitHub: [Uttam Kumar Sharma](https://github.com/TechGirl007)

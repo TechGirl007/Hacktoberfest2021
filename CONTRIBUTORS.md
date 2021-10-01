@@ -23,3 +23,7 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+#### Name:  TechGirl007
+- Place: Australian
+- Bio: Student 
+- GitHub: [Uttam Kumar Sharma](https://github.com/TechGirl007)
